@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git+ssh://git@github.com/matt-cf/photographer-app.git"
   },
-  "author": "Matthew (Cheng Fong)",
+  "author": "Matthew (Cheng Fong) Lou",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/matt-cf/photographer-app/issues"
   },
-  "homepage": "https://github.com/matt-cf/photographer-app#readme"
+  "homepage": "https://github.com/matt-cf/photographer-app#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "passport": "^0.6.0"
+  }
 }
