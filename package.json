@@ -1,0 +1,19 @@
+{
+  "name": "photographer-app",
+  "version": "1.0.0",
+  "description": "This is an app for photographer to showcase their work ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/matt-cf/photographer-app.git"
+  },
+  "author": "Matthew (Cheng Fong)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matt-cf/photographer-app/issues"
+  },
+  "homepage": "https://github.com/matt-cf/photographer-app#readme"
+}
